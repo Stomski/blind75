@@ -3,6 +3,4 @@
 Working through the blind75 thoroughly,
 
 week one, hashmaps;
-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
-
-git remote set-url origin https://Stomski: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@github.com/Stomski/blind75.git
+git remote set-url origin https://stomski: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@github.com/Stomski/blind75.git
